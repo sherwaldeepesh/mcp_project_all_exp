@@ -1,0 +1,6 @@
+[submodule "mcp_server_deployement"]
+	path = mcp_server_deployement
+	url = https://github.com/sherwaldeepesh/mcp_server_deployement.git
+[submodule "mcp_project"]
+	path = mcp_project
+	url = https://github.com/sherwaldeepesh/mcp_server_deployement.git
